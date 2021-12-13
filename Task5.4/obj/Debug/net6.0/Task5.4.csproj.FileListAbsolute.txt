@@ -1,0 +1,38 @@
+C:\Users\User\Desktop\Task5.4\bin\Debug\net6.0\Task5.4.exe
+C:\Users\User\Desktop\Task5.4\bin\Debug\net6.0\Task5.4.deps.json
+C:\Users\User\Desktop\Task5.4\bin\Debug\net6.0\Task5.4.runtimeconfig.json
+C:\Users\User\Desktop\Task5.4\bin\Debug\net6.0\Task5.4.dll
+C:\Users\User\Desktop\Task5.4\bin\Debug\net6.0\ref\Task5.4.dll
+C:\Users\User\Desktop\Task5.4\bin\Debug\net6.0\Task5.4.pdb
+C:\Users\User\Desktop\Task5.4\obj\Debug\net6.0\Task5.4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task5.4\obj\Debug\net6.0\Task5.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task5.4\obj\Debug\net6.0\Task5.4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task5.4\obj\Debug\net6.0\Task5.4.AssemblyInfo.cs
+C:\Users\User\Desktop\Task5.4\obj\Debug\net6.0\Task5.4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task5.4\obj\Debug\net6.0\Task5.4.dll
+C:\Users\User\Desktop\Task5.4\obj\Debug\net6.0\ref\Task5.4.dll
+C:\Users\User\Desktop\Task5.4\obj\Debug\net6.0\Task5.4.pdb
+C:\Users\User\Desktop\Task5.4\obj\Debug\net6.0\Task5.4.genruntimeconfig.cache
+C:\Users\User\Desktop\ПЗ №5\Task5.4\bin\Debug\net6.0\Task5.4.exe
+C:\Users\User\Desktop\ПЗ №5\Task5.4\bin\Debug\net6.0\Task5.4.deps.json
+C:\Users\User\Desktop\ПЗ №5\Task5.4\bin\Debug\net6.0\Task5.4.runtimeconfig.json
+C:\Users\User\Desktop\ПЗ №5\Task5.4\bin\Debug\net6.0\Task5.4.dll
+C:\Users\User\Desktop\ПЗ №5\Task5.4\bin\Debug\net6.0\ref\Task5.4.dll
+C:\Users\User\Desktop\ПЗ №5\Task5.4\bin\Debug\net6.0\Task5.4.pdb
+C:\Users\User\Desktop\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.AssemblyInfo.cs
+C:\Users\User\Desktop\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.dll
+C:\Users\User\Desktop\ПЗ №5\Task5.4\obj\Debug\net6.0\ref\Task5.4.dll
+C:\Users\User\Desktop\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.pdb
+C:\Users\User\Desktop\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.genruntimeconfig.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.csproj.AssemblyReference.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Twist\Desktop\Tasks\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.AssemblyInfoInputs.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.AssemblyInfo.cs
+C:\Users\Twist\Desktop\Tasks\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.csproj.CoreCompileInputs.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.dll
+C:\Users\Twist\Desktop\Tasks\ПЗ №5\Task5.4\obj\Debug\net6.0\ref\Task5.4.dll
+C:\Users\Twist\Desktop\Tasks\ПЗ №5\Task5.4\obj\Debug\net6.0\Task5.4.pdb
