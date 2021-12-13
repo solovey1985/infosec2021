@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\Task1\bin\Debug\net6.0\Task1.exe
+C:\Users\User\Desktop\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\Users\User\Desktop\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\User\Desktop\Task1\bin\Debug\net6.0\Task1.dll
+C:\Users\User\Desktop\Task1\bin\Debug\net6.0\ref\Task1.dll
+C:\Users\User\Desktop\Task1\bin\Debug\net6.0\Task1.pdb
+C:\Users\User\Desktop\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\User\Desktop\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task1\obj\Debug\net6.0\Task1.dll
+C:\Users\User\Desktop\Task1\obj\Debug\net6.0\ref\Task1.dll
+C:\Users\User\Desktop\Task1\obj\Debug\net6.0\Task1.pdb
+C:\Users\User\Desktop\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Users\User\Desktop\Task1.1\bin\Debug\net6.0\Task1.exe
+C:\Users\User\Desktop\Task1.1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task1.1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task1.1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task1.1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\User\Desktop\Task1.1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task1.1\obj\Debug\net6.0\Task1.dll
+C:\Users\User\Desktop\Task1.1\obj\Debug\net6.0\ref\Task1.dll
+C:\Users\User\Desktop\Task1.1\obj\Debug\net6.0\Task1.pdb
+C:\Users\User\Desktop\ПЗ №1\Task1.1\bin\Debug\net6.0\Task1.exe
+C:\Users\User\Desktop\ПЗ №1\Task1.1\bin\Debug\net6.0\Task1.deps.json
+C:\Users\User\Desktop\ПЗ №1\Task1.1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\User\Desktop\ПЗ №1\Task1.1\bin\Debug\net6.0\Task1.dll
+C:\Users\User\Desktop\ПЗ №1\Task1.1\bin\Debug\net6.0\ref\Task1.dll
+C:\Users\User\Desktop\ПЗ №1\Task1.1\bin\Debug\net6.0\Task1.pdb
+C:\Users\User\Desktop\ПЗ №1\Task1.1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ПЗ №1\Task1.1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ПЗ №1\Task1.1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ПЗ №1\Task1.1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\User\Desktop\ПЗ №1\Task1.1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ПЗ №1\Task1.1\obj\Debug\net6.0\Task1.dll
+C:\Users\User\Desktop\ПЗ №1\Task1.1\obj\Debug\net6.0\ref\Task1.dll
+C:\Users\User\Desktop\ПЗ №1\Task1.1\obj\Debug\net6.0\Task1.pdb
+C:\Users\User\Desktop\ПЗ №1\Task1.1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
