@@ -1,0 +1,38 @@
+C:\Users\User\Desktop\Task6.2\bin\Debug\net6.0\Task6.2.exe
+C:\Users\User\Desktop\Task6.2\bin\Debug\net6.0\Task6.2.deps.json
+C:\Users\User\Desktop\Task6.2\bin\Debug\net6.0\Task6.2.runtimeconfig.json
+C:\Users\User\Desktop\Task6.2\bin\Debug\net6.0\Task6.2.dll
+C:\Users\User\Desktop\Task6.2\bin\Debug\net6.0\ref\Task6.2.dll
+C:\Users\User\Desktop\Task6.2\bin\Debug\net6.0\Task6.2.pdb
+C:\Users\User\Desktop\Task6.2\obj\Debug\net6.0\Task6.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task6.2\obj\Debug\net6.0\Task6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task6.2\obj\Debug\net6.0\Task6.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task6.2\obj\Debug\net6.0\Task6.2.AssemblyInfo.cs
+C:\Users\User\Desktop\Task6.2\obj\Debug\net6.0\Task6.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task6.2\obj\Debug\net6.0\Task6.2.dll
+C:\Users\User\Desktop\Task6.2\obj\Debug\net6.0\ref\Task6.2.dll
+C:\Users\User\Desktop\Task6.2\obj\Debug\net6.0\Task6.2.pdb
+C:\Users\User\Desktop\Task6.2\obj\Debug\net6.0\Task6.2.genruntimeconfig.cache
+C:\Users\User\Desktop\ПЗ №6\Task6.2\bin\Debug\net6.0\Task6.2.exe
+C:\Users\User\Desktop\ПЗ №6\Task6.2\bin\Debug\net6.0\Task6.2.deps.json
+C:\Users\User\Desktop\ПЗ №6\Task6.2\bin\Debug\net6.0\Task6.2.runtimeconfig.json
+C:\Users\User\Desktop\ПЗ №6\Task6.2\bin\Debug\net6.0\Task6.2.dll
+C:\Users\User\Desktop\ПЗ №6\Task6.2\bin\Debug\net6.0\ref\Task6.2.dll
+C:\Users\User\Desktop\ПЗ №6\Task6.2\bin\Debug\net6.0\Task6.2.pdb
+C:\Users\User\Desktop\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.AssemblyInfo.cs
+C:\Users\User\Desktop\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.dll
+C:\Users\User\Desktop\ПЗ №6\Task6.2\obj\Debug\net6.0\ref\Task6.2.dll
+C:\Users\User\Desktop\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.pdb
+C:\Users\User\Desktop\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.genruntimeconfig.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.csproj.AssemblyReference.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Twist\Desktop\Tasks\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.AssemblyInfoInputs.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.AssemblyInfo.cs
+C:\Users\Twist\Desktop\Tasks\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.csproj.CoreCompileInputs.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.dll
+C:\Users\Twist\Desktop\Tasks\ПЗ №6\Task6.2\obj\Debug\net6.0\ref\Task6.2.dll
+C:\Users\Twist\Desktop\Tasks\ПЗ №6\Task6.2\obj\Debug\net6.0\Task6.2.pdb
