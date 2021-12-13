@@ -1,0 +1,5 @@
+C:\Users\Twist\Desktop\Tasks\ПЗ №9-10\Task9.1\obj\Release\net6.0\Task9.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Twist\Desktop\Tasks\ПЗ №9-10\Task9.1\obj\Release\net6.0\Task9.1.AssemblyInfoInputs.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №9-10\Task9.1\obj\Release\net6.0\Task9.1.AssemblyInfo.cs
+C:\Users\Twist\Desktop\Tasks\ПЗ №9-10\Task9.1\obj\Release\net6.0\Task9.1.csproj.CoreCompileInputs.cache
+C:\Users\Twist\Desktop\Tasks\ПЗ №9-10\Task9.1\obj\Release\net6.0\Task9.1.csproj.AssemblyReference.cache
