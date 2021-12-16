@@ -1,0 +1,60 @@
+C:\Users\User\Desktop\Tsk2\bin\Debug\net6.0\Tsk2.exe
+C:\Users\User\Desktop\Tsk2\bin\Debug\net6.0\Tsk2.deps.json
+C:\Users\User\Desktop\Tsk2\bin\Debug\net6.0\Tsk2.runtimeconfig.json
+C:\Users\User\Desktop\Tsk2\bin\Debug\net6.0\Tsk2.dll
+C:\Users\User\Desktop\Tsk2\bin\Debug\net6.0\ref\Tsk2.dll
+C:\Users\User\Desktop\Tsk2\bin\Debug\net6.0\Tsk2.pdb
+C:\Users\User\Desktop\Tsk2\obj\Debug\net6.0\Tsk2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tsk2\obj\Debug\net6.0\Tsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tsk2\obj\Debug\net6.0\Tsk2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tsk2\obj\Debug\net6.0\Tsk2.AssemblyInfo.cs
+C:\Users\User\Desktop\Tsk2\obj\Debug\net6.0\Tsk2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tsk2\obj\Debug\net6.0\Tsk2.dll
+C:\Users\User\Desktop\Tsk2\obj\Debug\net6.0\ref\Tsk2.dll
+C:\Users\User\Desktop\Tsk2\obj\Debug\net6.0\Tsk2.pdb
+C:\Users\User\Desktop\Tsk2\obj\Debug\net6.0\Tsk2.genruntimeconfig.cache
+C:\Users\User\Desktop\Task2.1\bin\Debug\net6.0\Tsk2.exe
+C:\Users\User\Desktop\Task2.1\bin\Debug\net6.0\Tsk2.deps.json
+C:\Users\User\Desktop\Task2.1\bin\Debug\net6.0\Tsk2.runtimeconfig.json
+C:\Users\User\Desktop\Task2.1\bin\Debug\net6.0\Tsk2.dll
+C:\Users\User\Desktop\Task2.1\bin\Debug\net6.0\ref\Tsk2.dll
+C:\Users\User\Desktop\Task2.1\bin\Debug\net6.0\Tsk2.pdb
+C:\Users\User\Desktop\Task2.1\obj\Debug\net6.0\Tsk2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task2.1\obj\Debug\net6.0\Tsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task2.1\obj\Debug\net6.0\Tsk2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task2.1\obj\Debug\net6.0\Tsk2.AssemblyInfo.cs
+C:\Users\User\Desktop\Task2.1\obj\Debug\net6.0\Tsk2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task2.1\obj\Debug\net6.0\Tsk2.dll
+C:\Users\User\Desktop\Task2.1\obj\Debug\net6.0\ref\Tsk2.dll
+C:\Users\User\Desktop\Task2.1\obj\Debug\net6.0\Tsk2.pdb
+C:\Users\User\Desktop\Task2.1\obj\Debug\net6.0\Tsk2.genruntimeconfig.cache
+C:\Users\User\Desktop\Task2.1_2\bin\Debug\net6.0\Tsk2.exe
+C:\Users\User\Desktop\Task2.1_2\bin\Debug\net6.0\Tsk2.deps.json
+C:\Users\User\Desktop\Task2.1_2\bin\Debug\net6.0\Tsk2.runtimeconfig.json
+C:\Users\User\Desktop\Task2.1_2\bin\Debug\net6.0\Tsk2.dll
+C:\Users\User\Desktop\Task2.1_2\bin\Debug\net6.0\ref\Tsk2.dll
+C:\Users\User\Desktop\Task2.1_2\bin\Debug\net6.0\Tsk2.pdb
+C:\Users\User\Desktop\Task2.1_2\obj\Debug\net6.0\Tsk2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task2.1_2\obj\Debug\net6.0\Tsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task2.1_2\obj\Debug\net6.0\Tsk2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task2.1_2\obj\Debug\net6.0\Tsk2.AssemblyInfo.cs
+C:\Users\User\Desktop\Task2.1_2\obj\Debug\net6.0\Tsk2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task2.1_2\obj\Debug\net6.0\Tsk2.dll
+C:\Users\User\Desktop\Task2.1_2\obj\Debug\net6.0\ref\Tsk2.dll
+C:\Users\User\Desktop\Task2.1_2\obj\Debug\net6.0\Tsk2.pdb
+C:\Users\User\Desktop\Task2.1_2\obj\Debug\net6.0\Tsk2.genruntimeconfig.cache
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\bin\Debug\net6.0\Tsk2.exe
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\bin\Debug\net6.0\Tsk2.deps.json
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\bin\Debug\net6.0\Tsk2.runtimeconfig.json
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\bin\Debug\net6.0\Tsk2.dll
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\bin\Debug\net6.0\ref\Tsk2.dll
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\bin\Debug\net6.0\Tsk2.pdb
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\obj\Debug\net6.0\Tsk2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\obj\Debug\net6.0\Tsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\obj\Debug\net6.0\Tsk2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\obj\Debug\net6.0\Tsk2.AssemblyInfo.cs
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\obj\Debug\net6.0\Tsk2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\obj\Debug\net6.0\Tsk2.dll
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\obj\Debug\net6.0\ref\Tsk2.dll
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\obj\Debug\net6.0\Tsk2.pdb
+C:\Users\User\Desktop\ПЗ №2\Task2.1_2\obj\Debug\net6.0\Tsk2.genruntimeconfig.cache
