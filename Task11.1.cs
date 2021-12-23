@@ -1,11 +1,12 @@
 ﻿using System;
-using System.Security.Cryptography;
 using System.Security.Principal;
+using System.Security.Cryptography;
+using System.Threading;
 using System.Collections.Generic;
-using System.IO;
 using System.Text;
 
-namespace Task11_1{
+namespace Task11_1
+{
     class User{
         public string Login { get; set; }
         public string PasswordHash { get; set; }
@@ -19,7 +20,7 @@ namespace Task11_1{
         }
     }
     
-    class Protector{
+    class AuthHandler{
         
         private static Dictionary<string, User> _users = new Dictionary<string, User>();    
 
@@ -56,52 +57,51 @@ namespace Task11_1{
                 }
                 
         }
-        private static string [] _roles = {"Viewer", "Editor", "Creator", "Admin"};
+        private static string [] _roles = {"Viewer", "Admin"};
         public static User Register(string userName, string password, byte[] salt, string[] roles){
-            User luser = new User(userName, password, salt, roles);
-            return luser;
+            User newUser = new User(userName, password, salt, roles);
+            return newUser;
         }
 
         public static void LogIn(string userName, string pass){
-              if (Protector.CheckPassword(userName, pass)){
+              if (AuthHandler.CheckPassword(userName, pass)){
                     Thread.CurrentPrincipal = new GenericPrincipal(new GenericIdentity(userName, "OIBAuth"), _users[userName].Roles);
                     IPrincipal threadPrincipal = Thread.CurrentPrincipal;
-                    Console.WriteLine("Name: {0}\nIsAuthenticated: {1}" +
-                    "\nAuthenticationType: {2}", 
-                    threadPrincipal.Identity.Name, 
-                    threadPrincipal.Identity.IsAuthenticated,
-                    threadPrincipal.Identity.AuthenticationType);
-                    foreach(string s in _users[userName].Roles){
-                        if(s == "Viewer")
-                            Protector.mv();
-                        if(s == "Editor")
-                            Protector.me();
-                        if(s == "Creator")
-                            Protector.mc();
-                        if(s == "Admin")
-                            Protector.ma();
-                    }
+                    
+                    Console.WriteLine(
+                        "Info: Name: {0}\nIsAuthenticated: {1}\n AuthenticationType: {2}",
+                        threadPrincipal.Identity.Name,
+                        threadPrincipal.Identity.IsAuthenticated,
+                        threadPrincipal.Identity.AuthenticationType);
 
+                    foreach(string role in _users[userName].Roles){
+                        if(role == "Viewer")
+                            AuthHandler.ViewerAction();
+                        if(role == "Admin")
+                            AuthHandler.AdminAction();
+                    }
                 }
                 else{
-                    Console.WriteLine("---Authorization wrong---");
+                    Console.WriteLine("Error: Authorization failed");
                 }  
         }
 
-        public static void mv(){
+        static void ViewerAction(){
             Console.WriteLine("This method works for viewers.");
         }
-        public static void me(){
-            Console.WriteLine("This method works for editors.");
-        }
-        public static void mc(){
-            Console.WriteLine("This method works for creators.");
-        }
-        public static void ma(){
+        static void AdminAction(){
             Console.WriteLine("This method works for admin.");
         }       
 
+
+        /// <summary>
+        /// Entry Point
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args){
+
+
+
             while(true){
             Console.WriteLine("\n<<<<<< MENU >>>>>>\n1. Registration\n2. Authorization");
             string ans = Console.ReadLine();
@@ -110,41 +110,27 @@ namespace Task11_1{
                 {
                     
                     Console.WriteLine("\n>>> Here is the REGISTRATION! <<<");
-                    Console.WriteLine("Enter name of user: ");
+                    Console.WriteLine("Enter user name : ");
                     string? name = Console.ReadLine();
                     Console.WriteLine("Enter the password: ");
                     string? pass = Console.ReadLine();
-                    byte[] passSalt = Protector.GenerateSalt();
+                    byte[] passSalt = AuthHandler.GenerateSalt();
                     string getPass = Convert.ToBase64String(GenHash(Encoding.Unicode.GetBytes(pass), passSalt));
-                    Console.WriteLine("Choose his/her roles:\n1. Viewer\n2. Editor\n3. Creator\n4. Admin");
+                    Console.WriteLine("Choose his/her roles:\n1. Viewer\n2. Admin");
                     string? answ = Console.ReadLine();
                     User newUser;
                     switch(answ){
                         case "1":{
                             Console.WriteLine("You chose Viewer.");
                             string [] arr = new string[]{_roles[0]};
-                            newUser = Protector.Register(name, getPass, passSalt, arr);
+                            newUser = AuthHandler.Register(name, getPass, passSalt, arr);
                             _users.Add(name, newUser);
                             break;
                         }
                         case "2":{
-                            Console.WriteLine("You chose Editor.");
-                            string [] arr = new string[]{_roles[0], _roles[1]};
-                            newUser = Protector.Register(name, getPass, passSalt, arr);
-                            _users.Add(name, newUser);
-                            break;
-                        }
-                        case "3":{
-                            Console.WriteLine("You chose Creator.");
-                            string [] arr = new string[]{_roles[0], _roles[1], _roles[2]};
-                            newUser = Protector.Register(name, getPass, passSalt, arr);
-                            _users.Add(name, newUser);
-                            break;
-                        }
-                        case "4":{
                             Console.WriteLine("You chose Admin.");
-                            string [] arr = new string[]{_roles[0], _roles[1], _roles[2], _roles[3]};
-                            newUser = Protector.Register(name, getPass, passSalt, arr);
+                            string [] arr = new string[]{_roles[0], _roles[1]};
+                            newUser = AuthHandler.Register(name, getPass, passSalt, arr);
                             _users.Add(name, newUser);
                             break;
                         }
@@ -170,7 +156,7 @@ namespace Task11_1{
                     string? authName = Console.ReadLine();
                     Console.WriteLine("Enter your password: ");                    
                     string? authPass = Console.ReadLine();
-                    Protector.LogIn(authName, authPass);
+                    AuthHandler.LogIn(authName, authPass);
 
                     break;
                 }
