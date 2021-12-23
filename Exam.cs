@@ -8,14 +8,19 @@ using System.Text;
 namespace Exam
 {
     class User{
+        private byte[] salt;
+        private string passwordHash;
+      
+
         public string Login { get; set; }
-        public string PasswordHash { get; set; }
-        public byte[] Salt { get; set; }
         public string[] Roles { get; set; }
-        public User(string log, string pass, byte[] salt, string[] roles){
-            Login = log;
-            PasswordHash = pass;
-            Salt = salt;
+        internal string PasswordHash => passwordHash;
+        internal byte[] Salt => salt;
+
+        internal User(string login, string password, byte[] salt, string[] roles){
+            Login = login;
+            passwordHash = password;
+            this.salt = salt;
             Roles = roles;
         }
     }
@@ -24,12 +29,12 @@ namespace Exam
         
         private static Dictionary<string, User> _users = new Dictionary<string, User>();    
 
-        public static byte[] GenerateSalt(){
+        static byte[] GenerateSalt(){
             const int saltLength = 32;
-            using(var randGen = new RNGCryptoServiceProvider()){
-                var randNumb = new byte[saltLength];
-                randGen.GetBytes(randNumb);
-                return randNumb;
+            using(var cryptoprovider = new RNGCryptoServiceProvider()){
+                var randomNumbers = new byte[saltLength];
+                cryptoprovider.GetBytes(randomNumbers);
+                return randomNumbers;
             }
         }
          private static byte[] Comb(byte[] first, byte[] second){
@@ -39,7 +44,7 @@ namespace Exam
 
             return ret;
         }
-        public static byte[] GenHash(byte[] toBeHashed, byte[] salt){
+        static byte[] GenHash(byte[] toBeHashed, byte[] salt){
             using (var sha256 = SHA256.Create()){
                 return sha256.ComputeHash(Comb(toBeHashed, salt));
             }
@@ -58,12 +63,12 @@ namespace Exam
                 
         }
         private static string [] _roles = {"Viewer", "Admin"};
-        public static User Register(string userName, string password, byte[] salt, string[] roles){
+        internal static User Register(string userName, string password, byte[] salt, string[] roles){
             User newUser = new User(userName, password, salt, roles);
             return newUser;
         }
 
-        public static void LogIn(string userName, string pass){
+        internal static void LogIn(string userName, string pass){
               if (AuthHandler.CheckPassword(userName, pass)){
                     Thread.CurrentPrincipal = new GenericPrincipal(new GenericIdentity(userName, "OIBAuth"), _users[userName].Roles);
                     IPrincipal threadPrincipal = Thread.CurrentPrincipal;
