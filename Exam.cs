@@ -5,7 +5,7 @@ using System.Threading;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Task11_1
+namespace Exam
 {
     class User{
         public string Login { get; set; }

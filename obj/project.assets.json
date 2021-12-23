@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TEMP\\Exam\\infosec2021\\Task11.1.csproj",
-      "projectName": "Task11.1",
-      "projectPath": "D:\\TEMP\\Exam\\infosec2021\\Task11.1.csproj",
+      "projectUniqueName": "D:\\TEMP\\Exam\\infosec2021\\Exam.csproj",
+      "projectName": "Exam",
+      "projectPath": "D:\\TEMP\\Exam\\infosec2021\\Exam.csproj",
       "packagesPath": "C:\\Users\\Andrii_Solovienko\\.nuget\\packages\\",
       "outputPath": "D:\\TEMP\\Exam\\infosec2021\\obj\\",
       "projectStyle": "PackageReference",
